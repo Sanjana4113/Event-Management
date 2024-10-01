@@ -26,8 +26,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 
-### UI Designs
-## Laptop view:
+
+## UI Designs
+### Laptop view:
 
 
 ![laptop1](https://github.com/user-attachments/assets/408d9cf8-f33d-44fb-be85-3f724869e3d7)
@@ -40,7 +41,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 
-## Mobile view:
+
+
+### Mobile view:
 
 
 ![phone2](https://github.com/user-attachments/assets/3e692013-b75e-4667-a3fe-aaf5a4263496)
