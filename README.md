@@ -29,6 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Laptop view:
 
+
 ![laptop1](https://github.com/user-attachments/assets/408d9cf8-f33d-44fb-be85-3f724869e3d7)
 
 ![laptop2](https://github.com/user-attachments/assets/484ce58c-a333-4be2-be78-be5d9290849e)
@@ -38,11 +39,13 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ![laptop4](https://github.com/user-attachments/assets/a64d0921-f1ec-42fe-b8e8-c9ecffa6fc48)
 
 
+
 ## Mobile view:
 
-![phone1](https://github.com/user-attachments/assets/7ee48cbc-5863-4372-97dd-3abf334001fc)
 
 ![phone2](https://github.com/user-attachments/assets/3e692013-b75e-4667-a3fe-aaf5a4263496)
+
+![phone1](https://github.com/user-attachments/assets/7ee48cbc-5863-4372-97dd-3abf334001fc)
 
 ![phone3](https://github.com/user-attachments/assets/6bede9ee-a70b-485f-b49e-f1de5283aaf7)
 
